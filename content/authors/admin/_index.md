@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Igor Sokolov
+title: Alice Wu
 
 # Full name (for SEO)
 first_name: Alice
